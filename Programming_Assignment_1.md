@@ -11,7 +11,7 @@ Although this is a programming assignment, you will be assessed using a separate
 
 The zip file containing the data can be downloaded here:
 
-- specdata.zip​ [2.4MB]
+- [specdata.zip](https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2Fspecdata.zip) [2.4MB]
 
 The zip file contains 332 comma-separated-value (CSV) files containing pollution monitoring data for
 fine particulate matter (PM) air pollution at 332 locations in the United States. Each file contains data
